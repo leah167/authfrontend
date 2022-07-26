@@ -1,9 +1,9 @@
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
-import HomePage from "./pages/HomePage";
-import LoginPage from "./pages/LoginPage";
-import RegistrationPage from "./pages/RegistrationPage";
-import NavBar from "./components/NavBar";
+import HomePage from "./Pages/HomePage";
+import LoginPage from "./Pages/LoginPage";
+import RegistrationPage from "./Pages/RegistrationPage";
+import NavBar from "./Components/NavBar";
 import { useState } from "react";
 
 function App() {
